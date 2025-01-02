@@ -3,12 +3,12 @@
 
 
 <h1 align="center">Hi 👋, I'm Cyril</h1>
-<h3 align="center">A student and an aspiring Back-end developer</h3>
+<h3 align="center">An aspiring Back-end developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Cyril-Nii" alt="Cyril-Nii" /></a> </p>
 
 - 🌱 I’m currently enhancing my **Java and Python programming skills**
-- 👀 I’m interested in software development.
+- 👀 I’m interested in **Software development**
 - 🤝 I’m looking for help with **Backend related things**
 - 📫 How to reach me <a href="mailto:cyriltagoe0@gmail.com">**Mail**</a>
 - ⚡ Fun fact: I love to **stay indoors**
