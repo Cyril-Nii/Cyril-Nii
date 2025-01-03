@@ -2,6 +2,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
+![](https://komarev.com/ghpvc/?username=Cyril-Nii&color=blue)
+
 <h1 align="center">Hi 👋, I'm Cyril</h1>
 <h3 align="center">An aspiring Back-end developer</h3>
 
