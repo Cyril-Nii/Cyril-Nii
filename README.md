@@ -34,7 +34,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Cyril-Nii&show_icons=true&locale=en" alt="cyril-nii" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cyril-Nii&" alt="Cyril-Nii" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cyril-Nii&" alt="Cyril-Nii" /></p>-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cyril-Nii)
 
