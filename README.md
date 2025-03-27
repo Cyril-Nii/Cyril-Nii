@@ -4,10 +4,18 @@
 
 ![](https://komarev.com/ghpvc/?username=Cyril-Nii&color=blue)
 
-<h1 align="center">Hi 👋, I'm Cyril</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Cyril</h1>
 <h3 align="center">An aspiring Back-end developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Cyril-Nii" alt="Cyril-Nii" /></a> </p>
+### 🏅 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Cyril-Nii&theme=darkhub&no-frame=true&no-bg=true&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Cyril-Nii Trophies" />
+  </a></p>
+  <p align="center">
+   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" width="80">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" width="80">
+</p>
 
 - 🌱 I’m currently enhancing my **Java and Python programming skills**
 - 👀 I’m interested in **Software development**
@@ -27,15 +35,48 @@
 <a href="https://www.leetcode.com/cyril-nii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cyril-nii" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cyril-Nii)
+<!-- 🚀 Tech Stack -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Cyril-Nii&show_icons=true&locale=en" alt="cyril-nii" /></p>
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,dart,php,html,css,react,flutter,bootstrap,tailwind,sass,django,flask,spring,nodejs,express,mysql,postgres,sqlite,git,github,linux,vscode,phpstorm,idea,laravel,photoshop" />
+  <br />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+</p>
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cyril-Nii&" alt="Cyril-Nii" /></p>-->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cyril-Nii)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyril-Nii&layout=compact&langs_count=10&count-private=true)](https://github.com/Cyril-Nii)
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">General Stats :
+
+<!-- Profile Details Card -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cyril-Nii&theme=github_dark" alt="Profile Details" />
+</p>
+
+<!-- GitHub Stats -->
+
+
+<p align="center">
+ 
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Cyril-Nii&theme=github-dark&hide_border=true&background=000000" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+   <img  src="https://github-readme-stats.vercel.app/api?username=Cyril-Nii&show_icons=true&title_color=02D752&icon_color=02D752&text_color=b3b3ff&bg_color=0,000000,130F40"/>
+  <a href="https://github.com/Cyril-Nii">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyril-Nii&layout=compact&langs_count=10&count-private=true&title_color=02D752&text_color=b3b3ff&bg_color=000000" alt="Top Languages" />
+  </a>
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cyril-Nii&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cyril-Nii&theme=github_dark" alt="Most Used Language" />
+</p>
