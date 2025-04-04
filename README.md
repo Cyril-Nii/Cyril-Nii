@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=Cyril-Nii&color=blue)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Cyril</h1>
-<h3 align="center">An aspiring Back-end developer</h3>
+<h3 align="center">FARM Stack Enthusiast (FastAPI, React, MongoDB)</h3>
 
 ### 🏅 GitHub Trophies
 <p align="center">
