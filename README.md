@@ -41,9 +41,7 @@
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,dart,php,html,css,react,flutter,bootstrap,tailwind,sass,django,flask,spring,nodejs,express,mysql,postgres,sqlite,git,github,linux,vscode,phpstorm,idea,laravel,photoshop" />
-  <br />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+ <img src="https://skillicons.dev/icons?i=python,react,mongodb,fastapi,html,css,git,github,dart,linux,tailwind,bootstrap,flutter,mysql,nodejs,vscode,pycharm,webstorm,androidstudio,photoshop" />
 </p>
 
 
