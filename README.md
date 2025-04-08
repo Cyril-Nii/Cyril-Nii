@@ -17,7 +17,7 @@
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" width="80">
 </p>
 
-- 🌱 I’m currently enhancing my **Java and Python programming skills**
+- 🌱 I’m currently enhancing my **Javascript and Python programming skills**
 - 👀 I’m interested in **Software development**
 - 🤝 I’m looking for help with **Backend related things**
 - 📫 How to reach me <a href="mailto:cyriltagoe0@gmail.com">**Mail**</a>
