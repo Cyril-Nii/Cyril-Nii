@@ -58,7 +58,7 @@
 
 
 <p align="center">
- 
+   <img src="https://streak-stats.demolab.com?user=Cyril-Nii&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5&date_format=%5BY.%5Dn.j&order=3" height="150" alt="GitHub Streak"  />
 </p>
 
 <!--<p align="center">
