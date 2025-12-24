@@ -67,9 +67,6 @@
 
 <p align="center">
    <img  src="https://github-readme-stats.vercel.app/api?username=Cyril-Nii&show_icons=true&title_color=02D752&icon_color=02D752&text_color=b3b3ff&bg_color=0,000000,130F40"/>
-  <a href="https://github.com/Cyril-Nii">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyril-Nii&layout=compact&langs_count=10&count-private=true&title_color=02D752&text_color=b3b3ff&bg_color=000000" alt="Top Languages" />
-  </a>
 </p>
 
 
@@ -77,3 +74,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cyril-Nii&theme=github_dark" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cyril-Nii&theme=github_dark" alt="Most Used Language" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Cyril-Nii&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
+</p>
+
