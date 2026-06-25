@@ -1,6 +1,3 @@
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 
 ![](https://komarev.com/ghpvc/?username=Cyril-Nii&color=blue)
 
@@ -11,10 +8,6 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Cyril-Nii&theme=darkhub&no-frame=true&no-bg=true&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Cyril-Nii Trophies" />
   </a></p>
-  <p align="center">
-   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" width="80">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" width="80">
-</p>
 
 - 🌱 I’m currently enhancing my **Javascript and Python programming skills**
 - 👀 I’m interested in **Software development**
@@ -32,15 +25,6 @@
 <a href="https://instagram.com/techy_cyril_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techy_cyril_20" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/cyriltagoe0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cyriltagoe0" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/cyril-nii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cyril-nii" height="30" width="40" /></a>
-</p>
-
----
-
-<!-- 🚀 Tech Stack -->
-
-### 🛠 Tech Stack
-<p align="center">
- <img src="https://skillicons.dev/icons?i=python,react,mongodb,fastapi,html,css,git,github,dart,linux,tailwind,bootstrap,flutter,mysql,nodejs,vscode,pycharm,webstorm,androidstudio,photoshop" />
 </p>
 
 
